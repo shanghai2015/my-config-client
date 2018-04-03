@@ -1,5 +1,6 @@
 info:
   profile: default
   from: githubt
+  test:wangliuwei
   
 world: hello
