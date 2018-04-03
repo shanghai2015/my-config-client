@@ -1,6 +1,6 @@
-info:
+info: 
   profile: default
   from: githubt
-  test:wangliuwei
+  test: wangliuwei
   
 world: hello
